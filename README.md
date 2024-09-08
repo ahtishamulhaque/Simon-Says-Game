@@ -1,9 +1,5 @@
 # Simon Says Game
-**Simon Says Game** - This project is a simple implementation of the classic memory game using HTML, CSS, and JavaScript.
-
-
-# Play the Game
-You can play the game [here](file:///C:/Vs%20Code/Simon%20Says%20Game/index.html).
+Welcome to the Simon Says Game! This project is a simple implementation of the classic memory game using HTML, CSS, and JavaScript.
 
 
 # How to Play
